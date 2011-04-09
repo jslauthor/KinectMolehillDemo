@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3018/trunk/broomstick/Away3D/src/away3d/materials/passes
+END
+MaterialPassBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/passes/MaterialPassBase.as
+END
+SingleObjectDepthPass.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/passes/SingleObjectDepthPass.as
+END
+SkyBoxPass.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/passes/SkyBoxPass.as
+END
+WireFramePass.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3018/trunk/broomstick/Away3D/src/away3d/materials/passes/WireFramePass.as
+END
+DefaultScreenPass.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3010/trunk/broomstick/Away3D/src/away3d/materials/passes/DefaultScreenPass.as
+END

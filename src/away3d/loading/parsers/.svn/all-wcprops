@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3017/trunk/broomstick/Away3D/src/away3d/loading/parsers
+END
+MD2Parser.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2954/trunk/broomstick/Away3D/src/away3d/loading/parsers/MD2Parser.as
+END
+MD5MeshParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2995/trunk/broomstick/Away3D/src/away3d/loading/parsers/MD5MeshParser.as
+END
+ParserDataFormat.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/loading/parsers/ParserDataFormat.as
+END
+ImageParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/loading/parsers/ImageParser.as
+END
+MD5AnimParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/loading/parsers/MD5AnimParser.as
+END
+ParserBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2943/trunk/broomstick/Away3D/src/away3d/loading/parsers/ParserBase.as
+END
+AC3DParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2995/trunk/broomstick/Away3D/src/away3d/loading/parsers/AC3DParser.as
+END
+OBJParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3017/trunk/broomstick/Away3D/src/away3d/loading/parsers/OBJParser.as
+END
+AWD1Parser.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3000/trunk/broomstick/Away3D/src/away3d/loading/parsers/AWD1Parser.as
+END
+AWD2Parser.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2995/trunk/broomstick/Away3D/src/away3d/loading/parsers/AWD2Parser.as
+END
+ColladaParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2997/trunk/broomstick/Away3D/src/away3d/loading/parsers/ColladaParser.as
+END
+Max3DSParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2942/trunk/broomstick/Away3D/src/away3d/loading/parsers/Max3DSParser.as
+END

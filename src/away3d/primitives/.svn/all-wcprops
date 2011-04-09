@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3043/trunk/broomstick/Away3D/src/away3d/primitives
+END
+Cube.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2995/trunk/broomstick/Away3D/src/away3d/primitives/Cube.as
+END
+Plane.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2995/trunk/broomstick/Away3D/src/away3d/primitives/Plane.as
+END
+SkyBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/primitives/SkyBox.as
+END
+PrimitiveBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/primitives/PrimitiveBase.as
+END
+Sphere.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2995/trunk/broomstick/Away3D/src/away3d/primitives/Sphere.as
+END
+LineSegment.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3034/trunk/broomstick/Away3D/src/away3d/primitives/LineSegment.as
+END

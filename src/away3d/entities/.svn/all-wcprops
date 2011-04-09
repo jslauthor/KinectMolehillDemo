@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3039/trunk/broomstick/Away3D/src/away3d/entities
+END
+Sprite3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2995/trunk/broomstick/Away3D/src/away3d/entities/Sprite3D.as
+END
+SegmentsBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3035/trunk/broomstick/Away3D/src/away3d/entities/SegmentsBase.as
+END
+WireFrameGrid.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3039/trunk/broomstick/Away3D/src/away3d/entities/WireFrameGrid.as
+END
+TextureProjector.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3010/trunk/broomstick/Away3D/src/away3d/entities/TextureProjector.as
+END
+Entity.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2995/trunk/broomstick/Away3D/src/away3d/entities/Entity.as
+END
+Mesh.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/entities/Mesh.as
+END

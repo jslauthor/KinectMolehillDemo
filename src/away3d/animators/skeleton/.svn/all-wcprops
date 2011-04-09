@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2956/trunk/broomstick/Away3D/src/away3d/animators/skeleton
+END
+SkeletonClipNodeBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/animators/skeleton/SkeletonClipNodeBase.as
+END
+SkeletonRangeClipNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/animators/skeleton/SkeletonRangeClipNode.as
+END
+SkeletonBinaryLERPNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/animators/skeleton/SkeletonBinaryLERPNode.as
+END
+Skeleton.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2956/trunk/broomstick/Away3D/src/away3d/animators/skeleton/Skeleton.as
+END
+SkeletonAdditiveNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/animators/skeleton/SkeletonAdditiveNode.as
+END
+SkeletonUtils.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/animators/skeleton/SkeletonUtils.as
+END
+SkeletonNaryLERPNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/animators/skeleton/SkeletonNaryLERPNode.as
+END
+SkeletonDirectionalNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/animators/skeleton/SkeletonDirectionalNode.as
+END
+SkeletonJoint.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2956/trunk/broomstick/Away3D/src/away3d/animators/skeleton/SkeletonJoint.as
+END
+SkeletonTimelineClipNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/animators/skeleton/SkeletonTimelineClipNode.as
+END
+SkeletonTreeNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/animators/skeleton/SkeletonTreeNode.as
+END
+JointPose.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/animators/skeleton/JointPose.as
+END
+SkeletonPose.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2956/trunk/broomstick/Away3D/src/away3d/animators/skeleton/SkeletonPose.as
+END

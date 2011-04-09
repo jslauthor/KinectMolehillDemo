@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3017/trunk/broomstick/Away3D/src/away3d/lights
+END
+PointLight.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3017/trunk/broomstick/Away3D/src/away3d/lights/PointLight.as
+END
+LightBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2995/trunk/broomstick/Away3D/src/away3d/lights/LightBase.as
+END
+DirectionalLight.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/lights/DirectionalLight.as
+END

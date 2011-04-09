@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2995/trunk/broomstick/Away3D/src/away3d/core/render
+END
+RendererBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2969/trunk/broomstick/Away3D/src/away3d/core/render/RendererBase.as
+END
+DefaultRenderer.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2995/trunk/broomstick/Away3D/src/away3d/core/render/DefaultRenderer.as
+END
+DepthRenderer.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/core/render/DepthRenderer.as
+END
+HitTestRenderer.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2995/trunk/broomstick/Away3D/src/away3d/core/render/HitTestRenderer.as
+END
+PositionRenderer.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/core/render/PositionRenderer.as
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3029/trunk/broomstick/Away3D/src/away3d/materials
+END
+ColorMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/ColorMaterial.as
+END
+SkyBoxMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/SkyBoxMaterial.as
+END
+DefaultMaterialBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3029/trunk/broomstick/Away3D/src/away3d/materials/DefaultMaterialBase.as
+END
+AnimatedBitmapMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/AnimatedBitmapMaterial.as
+END
+WireframeMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3013/trunk/broomstick/Away3D/src/away3d/materials/WireframeMaterial.as
+END
+MaterialLibrary.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/MaterialLibrary.as
+END
+VideoMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/VideoMaterial.as
+END
+MaterialBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/MaterialBase.as
+END
+BitmapFileMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/BitmapFileMaterial.as
+END
+BitmapMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2970/trunk/broomstick/Away3D/src/away3d/materials/BitmapMaterial.as
+END

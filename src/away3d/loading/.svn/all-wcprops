@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3017/trunk/broomstick/Away3D/src/away3d/loading
+END
+BitmapDataResource.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/loading/BitmapDataResource.as
+END
+IResource.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/loading/IResource.as
+END
+ResourceManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2995/trunk/broomstick/Away3D/src/away3d/loading/ResourceManager.as
+END
+ResourceDependency.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2919/trunk/broomstick/Away3D/src/away3d/loading/ResourceDependency.as
+END
+AssetLoader.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2959/trunk/broomstick/Away3D/src/away3d/loading/AssetLoader.as
+END
+AssetLoaderFileType.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/loading/AssetLoaderFileType.as
+END
+ResourceLoadSession.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2965/trunk/broomstick/Away3D/src/away3d/loading/ResourceLoadSession.as
+END

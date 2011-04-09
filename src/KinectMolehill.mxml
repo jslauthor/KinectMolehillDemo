@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:WindowedApplication xmlns:fx="http://ns.adobe.com/mxml/2009" 
+					   xmlns:s="library://ns.adobe.com/flex/spark" 
+					   xmlns:mx="library://ns.adobe.com/flex/mx"
+					   frameRate="120"
+					   backgroundAlpha="0"
+					   width="1000"
+					   height="800"
+					   xmlns:demo="com.leonardsouza.kinect.demo.*"
+					   xmlns:components="com.leonardsouza.kinect.demo.view.components.*" 
+					   xmlns:debug="net.hires.debug.*">
+	<fx:Script>
+		<![CDATA[
+			import mx.graphics.SolidColor;
+			
+			import spark.filters.DropShadowFilter;
+		]]>
+	</fx:Script>
+	
+	<fx:Declarations>
+		<demo:KinectDemoContext contextView="{this}" />
+	</fx:Declarations>
+
+	<components:MediaWallView 
+		id="mediaWallView"
+		width="100%" 
+		height="100%"
+		mouseEnabled="{userStatusView.currentState == 'skeletonMinimized'}"/>
+	
+	<components:UserStatusView
+		id="userStatusView"
+		width="100%"
+		height="100%" />
+	
+	<components:SkeletonHandsView 
+		width="{width}" height="{height}" 
+		visible="{userStatusView.currentState == 'skeletonMinimized'}"/>
+	
+	<!--
+	<debug:Stats />
+	-->
+	
+</s:WindowedApplication>

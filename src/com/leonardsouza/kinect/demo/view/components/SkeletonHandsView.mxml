@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:Group xmlns:fx="http://ns.adobe.com/mxml/2009" 
+		 xmlns:s="library://ns.adobe.com/flex/spark" 
+		 xmlns:mx="library://ns.adobe.com/flex/mx" xmlns:assets="assets.*">
+	<fx:Script>
+		<![CDATA[
+			import mx.graphics.SolidColor;
+			
+			import spark.filters.DropShadowFilter;
+		]]>
+	</fx:Script>
+	
+	<fx:Declarations>
+		<!-- Place non-visual elements (e.g., services, value objects) here -->
+	</fx:Declarations>
+	
+	<assets:left_hand id="leftHand" width="40" height="40" alpha="1" filters="{[new DropShadowFilter(4, 90, 0, .2, 4, 4)]}" />
+	<assets:right_hand id="rightHand" width="40" height="40" alpha="1" filters="{[new DropShadowFilter(4, 90, 0, .2, 4, 4)]}" />
+	
+</s:Group>

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3006/trunk/broomstick/Away3D/src/away3d/core/base
+END
+Object3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/core/base/Object3D.as
+END
+SkinnedSubGeometry.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/core/base/SkinnedSubGeometry.as
+END
+IMaterialOwner.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/core/base/IMaterialOwner.as
+END
+SubGeometry.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2995/trunk/broomstick/Away3D/src/away3d/core/base/SubGeometry.as
+END
+SubMesh.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/core/base/SubMesh.as
+END
+Geometry.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3006/trunk/broomstick/Away3D/src/away3d/core/base/Geometry.as
+END
+IRenderable.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/core/base/IRenderable.as
+END

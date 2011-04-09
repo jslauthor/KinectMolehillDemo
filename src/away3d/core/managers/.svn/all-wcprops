@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2996/trunk/broomstick/Away3D/src/away3d/core/managers
+END
+AGALProgram3DAssembler.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2996/trunk/broomstick/Away3D/src/away3d/core/managers/AGALProgram3DAssembler.as
+END
+Stage3DManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/core/managers/Stage3DManager.as
+END
+Program3DAssemblerBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/core/managers/Program3DAssemblerBase.as
+END
+CubeTexture3DProxy.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/core/managers/CubeTexture3DProxy.as
+END
+Texture3DProxy.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/core/managers/Texture3DProxy.as
+END
+Mouse3DManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2963/trunk/broomstick/Away3D/src/away3d/core/managers/Mouse3DManager.as
+END
+Stage3DProxy.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/core/managers/Stage3DProxy.as
+END

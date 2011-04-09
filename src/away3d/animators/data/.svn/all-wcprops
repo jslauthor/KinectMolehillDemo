@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3017/trunk/broomstick/Away3D/src/away3d/animators/data
+END
+VertexAnimation.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2995/trunk/broomstick/Away3D/src/away3d/animators/data/VertexAnimation.as
+END
+SkeletonAnimationSequence.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/animators/data/SkeletonAnimationSequence.as
+END
+VertexAnimationState.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/animators/data/VertexAnimationState.as
+END
+VertexAnimationMode.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/animators/data/VertexAnimationMode.as
+END
+AnimationSequenceBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3017/trunk/broomstick/Away3D/src/away3d/animators/data/AnimationSequenceBase.as
+END
+SkeletonAnimation.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3017/trunk/broomstick/Away3D/src/away3d/animators/data/SkeletonAnimation.as
+END
+SkeletonAnimationState.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2961/trunk/broomstick/Away3D/src/away3d/animators/data/SkeletonAnimationState.as
+END
+VertexAnimationSequence.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/animators/data/VertexAnimationSequence.as
+END
+AnimationBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/animators/data/AnimationBase.as
+END
+NullAnimation.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/animators/data/NullAnimation.as
+END
+AnimationStateBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/animators/data/AnimationStateBase.as
+END

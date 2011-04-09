@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3017/trunk/broomstick/Away3D/src/away3d/animators
+END
+SkeletonAnimator.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3017/trunk/broomstick/Away3D/src/away3d/animators/SkeletonAnimator.as
+END
+BlendingSkeletonAnimator.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2995/trunk/broomstick/Away3D/src/away3d/animators/BlendingSkeletonAnimator.as
+END
+AnimatorBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3017/trunk/broomstick/Away3D/src/away3d/animators/AnimatorBase.as
+END
+VertexAnimator.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3017/trunk/broomstick/Away3D/src/away3d/animators/VertexAnimator.as
+END
+SmoothSkeletonAnimator.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2910/trunk/broomstick/Away3D/src/away3d/animators/SmoothSkeletonAnimator.as
+END

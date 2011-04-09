@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<application xmlns="http://ns.adobe.com/air/application/2.7" minimumPatchLevel="0">
+<!-- AIR Application Descriptor File. See http://www.adobe.com/go/learn_air_1.0_application_descriptor_en. -->
+<id>LoaderMD5Test</id>
+<name>
+<text xml:lang="en">LoaderMD5Test</text>
+</name>
+<!-- format is <0-999>.<0-999>.<0-999> -->
+<versionNumber>1.0</versionNumber>
+<versionLabel>v1</versionLabel>
+<filename>LoaderMD5Test</filename>
+<supportedProfiles>desktop</supportedProfiles>
+<initialWindow>
+<content>LoaderMD5Test.swf</content>
+<visible>true</visible>
+<width>1024</width>
+<height>576</height>
+<minSize>640 480</minSize>
+<maxSize>1024 576</maxSize>
+<renderMode>direct</renderMode>
+</initialWindow>
+</application>

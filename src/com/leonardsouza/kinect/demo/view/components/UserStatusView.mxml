@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:Group xmlns:fx="http://ns.adobe.com/mxml/2009" 
+		 xmlns:s="library://ns.adobe.com/flex/spark" 
+		 xmlns:mx="library://ns.adobe.com/flex/mx" 
+		 width="100%" height="100%"
+		 currentState="skeletonMaximized">
+	
+	<fx:Script>
+		<![CDATA[
+			import mx.graphics.SolidColor;
+			import mx.graphics.SolidColorStroke;
+		]]>
+	</fx:Script>
+	
+	<fx:Declarations>
+		<s:Parallel id="showStatusCaption" target="{userStatusContainer}">
+			<s:SetAction property="alpha" value="1" />
+			<s:Fade alphaFrom="1" alphaTo="0" startDelay="3000" />
+		</s:Parallel>
+	</fx:Declarations>
+	
+	<s:states>
+		<s:State name="skeletonMinimized" />
+		<s:State name="skeletonMaximized" />
+	</s:states>
+
+	<s:Rect 
+		width="100%" 
+		height="100%" 
+		fill="{new SolidColor(0, 1)}"
+		visible.skeletonMaximized="true"
+		visible.skeletonMinimized="false"/>	
+	
+	<s:Group
+		id="userStatusContainer"
+		width="100%"
+		height="50"
+		bottom="0">
+		
+		<s:Rect width="100%" height="100%" fill="{new SolidColor(0, .3)}" />
+		<s:Label id="userStatusLabel" verticalCenter="0" horizontalCenter="0" color="0xFFFFFF" fontSize="28" />
+		
+	</s:Group>
+	
+	<s:Group
+		width="640" height="480" 
+		id="userSkeleton"
+		scaleX="1"
+		scaleY="1"
+		visible.skeletonMaximized="true"
+		visible.skeletonMinimized="false"
+		verticalCenter.skeletonMaximized="0"
+		horizontalCenter.skeletonMaximized="0"
+		right.skeletonMinimized="40"
+		bottom.skeletonMinimized="40"
+		scaleX.skeletonMinimized=".25"
+		scaleY.skeletonMinimized=".25"
+		alpha.skeletonMaximized="1"
+		alpha.skeletonMinimized=".5"
+		mask="{skeletonMask}">
+		
+		<s:Group id="skeletonMask" width="100%" height="100%">
+			<s:Rect width="100%" height="100%" fill="{new SolidColor(0, 0)}" radiusX="10" radiusY="10" />
+		</s:Group> 
+		
+		<s:Rect width="100%" height="100%" fill="{new SolidColor(0x333333)}" />
+		
+		<s:Ellipse id="head" width="10" height="10" fill="{new SolidColor(0xFFFFFF)}" visible="{head.x >= 1 || head.y >= 1}" />
+		<s:Ellipse id="neck" width="10" height="10" fill="{new SolidColor(0xFFFFFF)}" visible="{neck.x >= 1 || neck.y >= 1}" />
+		<s:Ellipse id="torso" width="10" height="10" fill="{new SolidColor(0xFFFFFF)}" visible="{torso.x >= 1 || torso.y >= 1}" />
+		
+		<s:Ellipse id="leftShoulder" width="10" height="10" fill="{new SolidColor(0xFFFFFF)}" visible="{leftShoulder.x >= 1 || leftShoulder.y >= 1}" />
+		<s:Ellipse id="rightShoulder" width="10" height="10" fill="{new SolidColor(0xFFFFFF)}" visible="{rightShoulder.x >= 1 || rightShoulder.y >= 1}" />
+		
+		<s:Ellipse id="leftElbow" width="10" height="10" fill="{new SolidColor(0xFFFFFF)}" visible="{leftElbow.x >= 1 || leftElbow.y >= 1}" />
+		<s:Ellipse id="rightElbow" width="10" height="10" fill="{new SolidColor(0xFFFFFF)}" visible="{rightElbow.x >= 1 || rightElbow.y >= 1}" />
+		
+		<s:Ellipse id="leftHand" width="10" height="10" fill="{new SolidColor(0xFFFFFF)}" visible="{leftHand.x >= 1 || leftHand.y >= 1}" />
+		<s:Ellipse id="rightHand" width="10" height="10" fill="{new SolidColor(0xFFFFFF)}" visible="{rightHand.x >= 1 || rightHand.y >= 1}" />
+		
+		<s:Ellipse id="leftHip" width="10" height="10" fill="{new SolidColor(0xFFFFFF)}" visible="{leftHip.x >= 1 || leftHip.y >= 1}" />
+		<s:Ellipse id="rightHip" width="10" height="10" fill="{new SolidColor(0xFFFFFF)}" visible="{rightHip.x >= 1 || rightHip.y >= 1}" />
+		
+		<s:Ellipse id="leftKnee" width="10" height="10" fill="{new SolidColor(0xFFFFFF)}" visible="{leftKnee.x >= 1 || leftKnee.y>= 1}" />
+		<s:Ellipse id="rightKnee" width="10" height="10" fill="{new SolidColor(0xFFFFFF)}" visible="{rightKnee.x >= 1 || rightKnee.y >= 1}" />
+		
+		<s:Ellipse id="leftFoot" width="10" height="10" fill="{new SolidColor(0xFFFFFF)}" visible="{leftFoot.x >= 1 || leftFoot.y >= 1}" />
+		<s:Ellipse id="rightFoot" width="10" height="10" fill="{new SolidColor(0xFFFFFF)}" visible="{rightFoot.x >= 1 || rightFoot.y >= 1}" />
+		
+	</s:Group>
+	
+
+	
+</s:Group>

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3016/trunk/broomstick/Away3D/src/away3d/materials/utils
+END
+SimpleVideoPlayer.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/utils/SimpleVideoPlayer.as
+END
+RegisterPool.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2995/trunk/broomstick/Away3D/src/away3d/materials/utils/RegisterPool.as
+END
+ShaderRegisterCache.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/utils/ShaderRegisterCache.as
+END
+AGAL.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3016/trunk/broomstick/Away3D/src/away3d/materials/utils/AGAL.as
+END
+ShaderRegisterElement.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/utils/ShaderRegisterElement.as
+END
+WireframeMapGenerator.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/utils/WireframeMapGenerator.as
+END
+MipmapGenerator.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/utils/MipmapGenerator.as
+END
+IVideoPlayer.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/utils/IVideoPlayer.as
+END
+CubeMap.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/utils/CubeMap.as
+END

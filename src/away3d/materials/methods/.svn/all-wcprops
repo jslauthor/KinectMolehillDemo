@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3017/trunk/broomstick/Away3D/src/away3d/materials/methods
+END
+SoftShadowMapMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3017/trunk/broomstick/Away3D/src/away3d/materials/methods/SoftShadowMapMethod.as
+END
+WrapDiffuseMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3010/trunk/broomstick/Away3D/src/away3d/materials/methods/WrapDiffuseMethod.as
+END
+RimLightMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3010/trunk/broomstick/Away3D/src/away3d/materials/methods/RimLightMethod.as
+END
+BasicSpecularMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3010/trunk/broomstick/Away3D/src/away3d/materials/methods/BasicSpecularMethod.as
+END
+BasicAmbientMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3010/trunk/broomstick/Away3D/src/away3d/materials/methods/BasicAmbientMethod.as
+END
+HardShadowMapMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3010/trunk/broomstick/Away3D/src/away3d/materials/methods/HardShadowMapMethod.as
+END
+EnvMapAmbientMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/methods/EnvMapAmbientMethod.as
+END
+EnvMapMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3010/trunk/broomstick/Away3D/src/away3d/materials/methods/EnvMapMethod.as
+END
+BasicDiffuseMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3010/trunk/broomstick/Away3D/src/away3d/materials/methods/BasicDiffuseMethod.as
+END
+ProjectiveTextureMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3010/trunk/broomstick/Away3D/src/away3d/materials/methods/ProjectiveTextureMethod.as
+END
+EnvMapDiffuseMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/methods/EnvMapDiffuseMethod.as
+END
+SubsurfaceScatteringDiffuseMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/methods/SubsurfaceScatteringDiffuseMethod.as
+END
+FresnelSpecularMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/methods/FresnelSpecularMethod.as
+END
+LightingMethodBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3010/trunk/broomstick/Away3D/src/away3d/materials/methods/LightingMethodBase.as
+END
+CelSpecularMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/methods/CelSpecularMethod.as
+END
+WrapSpecularMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3010/trunk/broomstick/Away3D/src/away3d/materials/methods/WrapSpecularMethod.as
+END
+ShadingMethodBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3010/trunk/broomstick/Away3D/src/away3d/materials/methods/ShadingMethodBase.as
+END
+CelDiffuseMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2894/trunk/broomstick/Away3D/src/away3d/materials/methods/CelDiffuseMethod.as
+END
+ColorTransformMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3010/trunk/broomstick/Away3D/src/away3d/materials/methods/ColorTransformMethod.as
+END
+TerrainDiffuseMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3010/trunk/broomstick/Away3D/src/away3d/materials/methods/TerrainDiffuseMethod.as
+END
+FogMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3010/trunk/broomstick/Away3D/src/away3d/materials/methods/FogMethod.as
+END
